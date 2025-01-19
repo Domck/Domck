@@ -1,5 +1,16 @@
 # 💫 About Me:
-Soy un profesional con experiencia en la gestión, diseño y desarrollo de soluciones tecnológicas, enfocado en la optimización de procesos y mejora de la eficiencia operativa. Domino metodologías ágiles como Scrum y Kanban, logrando reducir tiempos de entrega y potenciar la productividad. Cuento con capacidad para liderar equipos multidisciplinarios, junto con sólidos conocimientos técnicos, me permite ejecutar proyectos estratégicos con resultados tangibles.
+¡Hola! 👋 Soy un desarrollador apasionado de Perú con el firme objetivo de sobresalir en el mundo de la tecnología. Mi experiencia abarca la gestión, diseño y desarrollo de soluciones innovadoras, siempre con un enfoque en la optimización de procesos y la mejora de la eficiencia operativa.
+
+🚀 ¿Qué me define?
+
+Dominio de metodologías ágiles como Scrum y Kanban, permitiéndome reducir tiempos de entrega y maximizar la productividad en proyectos.
+Liderazgo en equipos multidisciplinarios, combinando habilidades técnicas y estratégicas para alcanzar objetivos desafiantes.
+Una mentalidad orientada a resultados, asegurando que cada proyecto entregue valor tangible y se alinee con las metas de negocio.
+🌐 Mi propósito
+Participar en proyectos que impulsen el cambio y la innovación, mientras desarrollo soluciones que marquen la diferencia. Con una actitud colaborativa y mi compromiso con la excelencia, estoy listo para enfrentar desafíos tecnológicos y crear impacto positivo.
+
+💡 ¿Buscas un profesional motivado y con visión?
+Te invito a explorar mis proyectos y a conectarte conmigo. Juntos, podemos construir algo extraordinario. 🚀
 
 
 ## 🌐 Socials:
