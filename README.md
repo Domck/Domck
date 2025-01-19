@@ -1,16 +1,19 @@
-# 💫 About Me:
-¡Hola! 👋 Soy un desarrollador apasionado de Perú con el firme objetivo de sobresalir en el mundo de la tecnología. Mi experiencia abarca la gestión, diseño y desarrollo de soluciones innovadoras, siempre con un enfoque en la optimización de procesos y la mejora de la eficiencia operativa.
+🌟 Sobre mí
+¡Hola! 👋 Soy un desarrollador entusiasta y comprometido de Perú, decidido a sobresalir en el dinámico mundo de la tecnología. Mi experiencia combina la gestión, diseño y desarrollo de soluciones tecnológicas, siempre enfocadas en optimizar procesos y mejorar la eficiencia operativa.
 
-🚀 ¿Qué me define?
+🚀 ¿Qué me caracteriza?
 
-Dominio de metodologías ágiles como Scrum y Kanban, permitiéndome reducir tiempos de entrega y maximizar la productividad en proyectos.
-Liderazgo en equipos multidisciplinarios, combinando habilidades técnicas y estratégicas para alcanzar objetivos desafiantes.
-Una mentalidad orientada a resultados, asegurando que cada proyecto entregue valor tangible y se alinee con las metas de negocio.
-🌐 Mi propósito
-Participar en proyectos que impulsen el cambio y la innovación, mientras desarrollo soluciones que marquen la diferencia. Con una actitud colaborativa y mi compromiso con la excelencia, estoy listo para enfrentar desafíos tecnológicos y crear impacto positivo.
+Profesional en metodologías ágiles como Scrum y Kanban, logrando reducir tiempos de entrega y potenciar la productividad.
+Liderazgo y trabajo en equipo, guiando equipos multidisciplinarios hacia el éxito en proyectos estratégicos.
+Sólidos conocimientos técnicos, que me permiten abordar desafíos complejos y transformar ideas en resultados concretos.
+🌐 Mi misión
+Contribuir a proyectos innovadores y de alto impacto, aportando soluciones que resalten por su calidad y valor. Mi pasión por el aprendizaje constante y mi visión colaborativa me impulsan a buscar siempre la excelencia en cada línea de código y estrategia implementada.
 
-💡 ¿Buscas un profesional motivado y con visión?
-Te invito a explorar mis proyectos y a conectarte conmigo. Juntos, podemos construir algo extraordinario. 🚀
+💡 ¿Por qué elegirme?
+Porque no solo soy un profesional técnico, sino un aliado estratégico para construir soluciones que marquen la diferencia. Estoy siempre listo para nuevos desafíos y emocionado por formar parte de proyectos que transformen ideas en realidad.
+
+🙏 Gracias por visitar mi perfil
+No dudes en contactarme al +51946349079, ¡estoy ansioso por ser parte de tu equipo y contribuir al éxito de tus proyectos! 🚀
 
 
 ## 🌐 Socials:
