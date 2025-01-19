@@ -7,13 +7,17 @@
 Profesional en metodologías ágiles como Scrum y Kanban, logrando reducir tiempos de entrega y potenciar la productividad.
 Liderazgo y trabajo en equipo, guiando equipos multidisciplinarios hacia el éxito en proyectos estratégicos.
 Sólidos conocimientos técnicos, que me permiten abordar desafíos complejos y transformar ideas en resultados concretos.
+
 🌐 Mi misión
+
 Contribuir a proyectos innovadores y de alto impacto, aportando soluciones que resalten por su calidad y valor. Mi pasión por el aprendizaje constante y mi visión colaborativa me impulsan a buscar siempre la excelencia en cada línea de código y estrategia implementada.
 
 💡 ¿Por qué elegirme?
+
 Porque no solo soy un profesional técnico, sino un aliado estratégico para construir soluciones que marquen la diferencia. Estoy siempre listo para nuevos desafíos y emocionado por formar parte de proyectos que transformen ideas en realidad.
 
 🙏 Gracias por visitar mi perfil
+
 No dudes en contactarme al +51946349079, ¡estoy ansioso por ser parte de tu equipo y contribuir al éxito de tus proyectos! 🚀
 
 
