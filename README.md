@@ -14,7 +14,7 @@ Contribuir a proyectos innovadores y de alto impacto, aportando soluciones que r
 
 💡 ¿Por qué elegirme?
 
-Porque no solo soy un profesional técnico, sino un aliado estratégico para construir soluciones que marquen la diferencia. Estoy siempre listo para nuevos desafíos y emocionado por formar parte de proyectos que transformen ideas en realidad.
+Porque no solo soy un profesional, sino un aliado estratégico para construir soluciones que marquen la diferencia. Estoy siempre listo para nuevos desafíos y emocionado por formar parte de proyectos que transformen ideas en realidad.
 
 🙏 Gracias por visitar mi perfil
 
